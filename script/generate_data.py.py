@@ -80,12 +80,3 @@ sprint_summary['Estimation_Accuracy_%'] = round(
 
 print("=== 2. SPRINT PERFORMANCE SUMMARY ===")
 print(sprint_summary, "\n")
-
-# Save dataset to CSV for Spreadsheet / Portfolio upload
-df.to_csv("sprint_delivery_tracker.csv", index=False)
-print("Saved dataset to 'sprint_delivery_tracker.csv' successfully!")
-
-from google.colab import files
-
-# Triggers the download prompt in your browser
-files.download("sprint_delivery_tracker.csv")
