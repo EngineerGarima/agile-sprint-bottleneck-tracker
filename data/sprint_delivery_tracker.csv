@@ -1,0 +1,26 @@
+Task_ID,Task_Name,Sprint,Assignee,Status,Estimated_Hours,Actual_Hours,Hour_Variance,Is_Delayed
+TSK-100,User Auth API,Sprint 2,David,Completed,9,10,1,1
+TSK-101,Landing Page UI,Sprint 2,Sara,Completed,11,14,3,1
+TSK-102,Database Migration,Sprint 1,Sara,Completed,9,8,-1,0
+TSK-103,Payment Gateway Integration,Sprint 1,David,Completed,8,7,-1,0
+TSK-104,Dashboard Charts,Sprint 2,Rohan,Blocked,8,16,8,1
+TSK-105,Bug Fix: Search Bar,Sprint 2,David,Completed,11,14,3,1
+TSK-106,Profile Page Redesign,Sprint 1,Alex,Blocked,7,16,9,1
+TSK-107,Email Notifications,Sprint 2,Priya,Completed,6,4,-2,0
+TSK-108,CI/CD Pipeline Setup,Sprint 2,David,Completed,7,6,-1,0
+TSK-109,Settings API,Sprint 1,Rohan,Completed,6,8,2,1
+TSK-110,Dark Mode Toggle,Sprint 2,David,Completed,13,16,3,1
+TSK-111,Data Export Feature,Sprint 1,Alex,Completed,7,10,3,1
+TSK-112,Unit Tests: Auth,Sprint 1,David,Completed,9,8,-1,0
+TSK-113,Performance Optimization,Sprint 2,Rohan,Completed,10,8,-2,0
+TSK-114,Analytics Tracking,Sprint 2,David,Completed,10,12,2,1
+TSK-115,SEO Meta Tags,Sprint 1,Priya,Completed,9,7,-2,0
+TSK-116,Role-Based Access,Sprint 1,Alex,Completed,14,16,2,1
+TSK-117,CSV Import Feature,Sprint 2,Sara,Blocked,9,19,10,1
+TSK-118,Localization Setup,Sprint 2,Sara,In Progress,5,9,4,1
+TSK-119,Session Timeout Fix,Sprint 1,Priya,Completed,11,11,0,0
+TSK-120,3rd Party Webhook,Sprint 2,Alex,Completed,15,18,3,1
+TSK-121,Image Upload Compression,Sprint 2,David,Completed,8,10,2,1
+TSK-122,Footer Links Cleanup,Sprint 1,David,Completed,11,14,3,1
+TSK-123,SSL Setup,Sprint 1,Sara,Completed,8,9,1,1
+TSK-124,Audit Log Service,Sprint 1,Rohan,Completed,15,13,-2,0
